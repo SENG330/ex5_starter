@@ -12,14 +12,13 @@ Please read thru the [overall exercises overview](https://github.com/SENG330/cou
 
 ### Overview
 
-In Exercise 5, add one external service call to your application. You will need to use API calls to public data sources, parse the returned JSON,  and display that in your app (printing to console is fine for now). You must test this service for connectivity, and also mock the returned data so you can run fast unit tests.
+In Exercise 5, add one external service call to your application. You will need to use API calls to public data sources, parse the returned JSON into a Java object,  and display that in your app (printing to console is fine for now). You must test this service for connectivity, and also mock the returned data so you can run fast unit tests.
 
 Some sample services you might avail yourself of:
 * AIS (vessel transponder) data (usually $$)
 * [Ocean Networks Canada data](https://wiki.oceannetworks.ca/display/O2A/API+Reference) 
 * [Weather and wind feeds](https://openweathermap.org/appid)
 * Other sources, that are relevant to the app.
-* 
 
 ### Deliverables
 
