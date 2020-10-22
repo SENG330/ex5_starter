@@ -1,4 +1,4 @@
-package ca.uvic.seng330.ex4;
+package ca.uvic.seng330.ex5;
 
 public class Singleton {
 
